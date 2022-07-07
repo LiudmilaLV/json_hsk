@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import json
-from pdf_helper import get_rus
+from hsk_file_reader import get_rus
 
 
 def main():
