@@ -1,10 +1,8 @@
-Creating a JSON file containing information about all 5000 Mandarine Chinese words for all 6 HSK levels with translation to English and Russian
-by:
+# JSON for HSK word list
+JSON file containing information about all 5000 Mandarine Chinese words for all 6 HSK levels with translation to English and Russian created by:
 - getting a existing JSON file with all HSK words as a base from [a repo](https://raw.githubusercontent.com/gigacool/hanyu-shuiping-kaoshi/)
 - adding the information about strokes and radicals from [another repo](https://raw.githubusercontent.com/pwxcoo/chinese-xinhua/)
-- and then adding a field with Russian translations (*in progress*).
-
-## The JSON I'm aiming for:
+- and then adding a field with Russian translations I got from an awesome [project](https://chineseplus.club/) for Russian-speaking Chinese learners.
 
 ```
 [

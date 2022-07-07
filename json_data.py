@@ -6,9 +6,8 @@ import requests
 import sys
 
 """
-- getting a existing JSON file with all HSK words as a base
-from [a repo](https://raw.githubusercontent.com/gigacool/hanyu-shuiping-kaoshi/)
-- adding the information about strokes and radicals from [another repo](https://raw.githubusercontent.com/pwxcoo/chinese-xinhua/)
+Getting a existing JSON file with all HSK words as a base
+and adding the information about strokes and radicals
 """
 
 

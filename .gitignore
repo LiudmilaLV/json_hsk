@@ -1,3 +1,7 @@
 __pycache__/pdf_helper.cpython-310.pyc
-.json
-.txt
+*.json
+!*short.json
+*.txt
+*.pyc
+.DS_Store
+txts
