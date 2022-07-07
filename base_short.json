@@ -1,0 +1,24 @@
+[{
+    "level": 1,
+    "id": 1,
+    "hanzi": "爱",
+    "pinyin": "ài",
+    "translations": [
+        "to love",
+        "affection",
+        "to be fond of",
+        "to like"
+        ]
+    },
+                {
+    "level": 2,
+    "id": 151,
+    "hanzi": "吧",
+    "pinyin": "ba",
+    "translations": [
+        "(modal particle indicating suggestion or surmise)",
+        "...right?",
+        "...OK?",
+        "...I presume."
+        ]
+    }]
