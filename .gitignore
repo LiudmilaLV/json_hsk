@@ -1,6 +1,7 @@
 __pycache__/pdf_helper.cpython-310.pyc
 *.json
 !*short.json
+!hsk.json
 strokes_short.json
 base_short.json
 *.txt
