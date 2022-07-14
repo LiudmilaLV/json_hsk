@@ -1,9 +1,17 @@
 # JSON for HSK word list
-JSON file containing information about all 5000 Mandarine Chinese words for all 6 HSK levels with translation to English and Russian created by:
+JSON file containing information about all 5000 words for all 6 HSK levels (for Mandarine Chinese proficiency exam) with translation to English and Russian created by:
 - getting a existing JSON file with all HSK words as a base from [a repo](https://github.com/gigacool/hanyu-shuiping-kaoshi/)
 - adding the information about strokes and radicals from [another repo](https://github.com/pwxcoo/chinese-xinhua/)
 - and then adding a field with Russian translations I got from an awesome [project](https://chineseplus.club/) for Russian-speaking Chinese learners.
 
+Please, feel free to suggest corrections.
+
+
+*Список всех слов для всех уровней HSK (экзамен на знание китайского языка) в формате JSON с переводом на русский и английский языки.*
+
+*Правки и предложения приветствуются :)*
+
+## JSON example:
 ```
 [
     {
